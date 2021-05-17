@@ -1,0 +1,8 @@
+name: SimplifiedCrops
+version: ${project.version}
+main: fr.gohansword.simplifiedcrops.SimplifiedCrops
+api-version: 1.16
+commands:
+  givehoue:
+    description: Give a custom items
+    usage: /<command>

@@ -1,0 +1,20 @@
+###############################################################
+#        the main name of the plugin (used in title/text)     #
+###############################################################
+
+MainName: "&8&l[&b&lSimplified&f&lCrops&8&l]"
+
+###############################################################
+#      # The language to use in the /language folder          #
+#                  Default: english                           #
+# List: "french"                                              #
+###############################################################
+language: "French"
+
+###############################################################
+#           If you want items to lose durability              #
+#                      Default: true                          #
+#                        true = yes                           #
+#                        false = no                           #
+###############################################################
+use_durability: true
